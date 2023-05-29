@@ -48,7 +48,9 @@ export function Calculadora(){
                 </div>
                 </div>
                 <button>Limpar</button>
+                <p>Apagar depois</p>
             </section>
         </main>
+        
     )
 }
